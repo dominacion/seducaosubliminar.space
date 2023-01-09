@@ -80,6 +80,9 @@ body {
 }
 }
 
+.atrasadoo{
+    
+}
 
 .span-colorido{
      background-color: red;
@@ -897,8 +900,8 @@ font-size: 20px;
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 20px;
-  background-color: #4080ff;
+  border-radius: 10px;
+  background-color: #23CF5C;
     color: white;
   font-family: monte;
   font-size: 16px;
@@ -909,12 +912,6 @@ font-size: 20px;
   white-space: normal;
 }
 
-.button:active {
-  background-color: #29B7CC;
-  color: #fff;
-  font-weight: 800;
-  text-shadow: none;
-}
 
 .image-2 {
   max-width: 50%;
